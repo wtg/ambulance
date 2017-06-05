@@ -1,5 +1,7 @@
 # RPI Ambulance Website [![Build Status](https://travis-ci.org/wtg/ambulance.svg?branch=master)](https://travis-ci.org/wtg/ambulance)
 
+[![Join the chat at https://gitter.im/wtg/RPI_Ambulance_Website](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/wtg/RPI_Ambulance_Website?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This website is built in the MEAN stack (MongoDB, Express.js, Angular.js, and Node.js), and can be deployed using the following steps:
 
 1. Clone this git repository by running the following command in a Git-enabled terminal:
