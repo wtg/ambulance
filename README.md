@@ -1,3 +1,10 @@
+# This repository has been succeeded by a fork, located on [the RPI Ambulance Github page](http://github.com/rpiambulance/website).
+
+This repo is under no further development due to RPI Ambulance's efforts to centralize their code assets. RPI Ambulance would like to expressly thank the Web Technologies Group for their generous time and energy in creating the website.
+
+---
+
+
 # RPI Ambulance Website [![Build Status](https://travis-ci.org/wtg/ambulance.svg?branch=master)](https://travis-ci.org/wtg/ambulance)
 
 This website is built in the MEAN stack (MongoDB, Express.js, Angular.js, and Node.js), and can be deployed using the following steps:
