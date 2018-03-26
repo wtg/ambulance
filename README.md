@@ -1,4 +1,4 @@
-# This repository has been succeeded by a fork, located on [the RPI Ambulance Github page](http://github.com/rpiambulance/website).
+# This repository has been succeeded by what used to be a fork, located on [the RPI Ambulance Github page](http://github.com/rpiambulance/website). The fork has since been broken by GitHub support, leaving an independant repo on RPIA's GitHub organization.
 
 This repo is under no further development due to RPI Ambulance's efforts to centralize their code assets. RPI Ambulance would like to expressly thank the Web Technologies Group for their generous time and energy in creating the website.
 
